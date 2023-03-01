@@ -1,7 +1,7 @@
 # FAQ Schema Generator
 
 
-Meetanshi’s ***[FAQ Schema Generator](https://meetanshi.com/faq-schema-generator)***  is a tool that helps website owners to create and implement FAQ (Frequently Asked Questions) schema on their website. This schema is a form of structured data that can be added to a website's HTML code, which allows search engines to understand the content of the FAQ page and display it in a more user-friendly format in search results.
+Meetanshi’s ***[FAQ Schema Generator](https://meetanshi.com/schema-generator/faq)***  is a tool that helps website owners to create and implement FAQ (Frequently Asked Questions) schema on their website. This schema is a form of structured data that can be added to a website's HTML code, which allows search engines to understand the content of the FAQ page and display it in a more user-friendly format in search results.
 
 With an FAQ Schema Generator, website owners can easily create a list of questions and answers for their FAQ page. The tool will then generate the necessary code for the FAQ schema, which can be added to the website's HTML code. This code will include the list of questions and answers, as well as other information such as the main topic of the FAQ page.
 
@@ -24,4 +24,4 @@ With an FAQ Schema Generator, website owners can easily create a list of questio
 
 Overall, the FAQ Schema Generator is a useful tool for website owners looking to improve their website's SEO and user experience. It allows for easy creation and implementation of FAQ schema, which can have a positive impact on search results and user engagement.
 
-For more information,visit : ***[https://meetanshi.com/faq-schema-generator](https://meetanshi.com/faq-schema-generator)***
+For more information,visit : ***[https://meetanshi.com/schema-generator/faq](https://meetanshi.com/schema-generator/faq)***
